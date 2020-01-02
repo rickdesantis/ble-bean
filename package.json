@@ -1,5 +1,6 @@
 {
   "name": "@rickdesantis/ble-bean",
+  "private": false,
   "version": "2.1.3",
   "description": "Lightblue Bean BLE Services",
   "main": "index.js",
