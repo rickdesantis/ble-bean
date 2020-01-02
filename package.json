@@ -1,6 +1,6 @@
 {
-  "name": "ble-bean",
-  "version": "2.1.2",
+  "name": "@rickdesantis/ble-bean",
+  "version": "2.1.3",
   "description": "Lightblue Bean BLE Services",
   "main": "index.js",
   "directories": {
@@ -19,7 +19,7 @@
   "scripts": {
     "test": "mocha --include test/*.js test/*.js --reporter spec"
   },
-  "repository": "https://github.com/jacobrosenthal/ble-bean",
+  "repository": "https://github.com/rickdesantis/ble-bean",
   "keywords": [
     "ble",
     "bean",
